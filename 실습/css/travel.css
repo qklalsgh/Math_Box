@@ -1,0 +1,30 @@
+.travel{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+}
+.country{
+	margin-top: 60px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+/*.country a:first-child{
+	font-weight: bold;
+}*/
+.country a{
+	font-size: 16px;
+	font-family: "Helvetica";
+	color: #58595B;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+}
+#photo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#home{
+	font-weight: bold;
+}
